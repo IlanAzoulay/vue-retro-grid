@@ -3,7 +3,12 @@ NPM package: a fully-customizable, moving 3D grid, in the 80s retro / synthwave 
 Compatible with Vue.js.
 
 ## PREVIEW
-TODO
+
+<div align="center">
+	<img src="https://github.com/IlanAzoulay/vue-retro-grid/tree/master/preview/retro_preview.gif" alt="Preview GIF">
+</div>
+
+Live example on [my website](https://ilan-azoulay.com/)
 
 ## FEATURES
 

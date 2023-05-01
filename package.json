@@ -1,6 +1,6 @@
 {
   "name": "vue-retro-grid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fully customizable, constant-moving 3D grid in the retro wave style",
   "author": "Ilan Azoulay",
 
@@ -14,6 +14,12 @@
     "src/**/*.vue"
   ],
   "sideEffects": false,
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IlanAzoulay/vue-retro-grid.git"
+  },
+  "homepage": "https://github.com/IlanAzoulay/vue-retro-grid",
 
   "keywords": [
     "vue",

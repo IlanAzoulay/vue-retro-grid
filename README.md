@@ -5,7 +5,7 @@ Compatible with Vue.js.
 ## PREVIEW
 
 <div align="center">
-	<img src="https://github.com/IlanAzoulay/vue-retro-grid/tree/master/preview/retro_preview.gif" alt="Preview GIF">
+	<img src="https://github.com/IlanAzoulay/vue-retro-grid/blob/master/preview/retro_preview.gif" alt="Preview GIF">
 </div>
 
 Live example on [my website](https://ilan-azoulay.com/)
